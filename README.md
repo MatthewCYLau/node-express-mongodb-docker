@@ -2,7 +2,7 @@
 
 A reference project to containerise a Node Express app with Docker, with persistent database using MongoDB
 
-## Run/Build Locally
+## Run/build locally
 
 In the project root directory, run this command:
 
