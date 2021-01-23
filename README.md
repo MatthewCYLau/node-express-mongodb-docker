@@ -22,11 +22,11 @@ docker run -e JWT_SECRET='<your_super_secure_secret>' -e MONGO_URI='<your_mongod
 
 - Make `POST` request to `http://localhost:8000/api/users` to create a user:
 
-```bash
+```json
 {
- "email": "hello@world.com",
- "password": "password",
- "name": "John Doe"
+  "email": "hello@world.com",
+  "password": "password",
+  "name": "John Doe"
 }
 ```
 
