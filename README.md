@@ -2,15 +2,6 @@
 
 A reference project to containerise a Node Express app with Docker, with persistent database using MongoDB
 
-## Installation
-
-Use the npm package manager to install node modules:
-
-```bash
-npm i # installs node modules
-npm start # starts the server
-```
-
 ## Run/Build Locally
 
 In the project root directory, run this command:
