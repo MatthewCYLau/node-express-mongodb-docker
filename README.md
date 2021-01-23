@@ -1,6 +1,6 @@
 # Node Express MongoDB Docker
 
-A reference to containerise a Node Express app with Docker, with persistent database using MongoDB
+A reference project to containerise a Node Express app with Docker, with persistent database using MongoDB
 
 ## Installation
 
